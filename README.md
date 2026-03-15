@@ -25,7 +25,7 @@ The tutorial guides you through setting up the core Azure services — Databrick
 ## Brief guide
 Assuming the user has access to Azure account, user will need to activate Databricks Workspace, the storage account (ADLS Gen2), and Synapse Analytics Workspace.
 
-1. Deploy the 3 containers in ADLS G2: Bronze, Silver, and Gold.
+1. Deploy 3 containers in ADLS G2, naming them Bronze, Silver, and Gold.
 2. Create your clusters in Databricks Workspace.
 3. Connect Databricks to ADLS G2.
 4. Build/upload the notebooks in Databricks.
